@@ -1,7 +1,7 @@
 "use client"
 
 import { useContext } from "react";
-import { TodoContext } from "./store/contexts/todo-context";
+import { TodoContext } from "../store/contexts/todo-context";
 
 const Todo4 = () => {
 
